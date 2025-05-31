@@ -1,0 +1,31 @@
+Patient ID,Patient Name,Age,Gender,Symptoms,Medical History,Test Results,Physician Query,AI Output
+P001,ajay,30,Male,"Sudden right-sided weakness, facial droop, slurred speech","Hypertension, atrial fibrillation",CT Head: No bleed; MRI: Left MCA infarct,"Best acute management and post-stroke care?What’s the likely diagnosis, and what should we do next?","1. Differential Diagnoses:
+   - Ischemic Stroke (Left MCA Infarction): 95%
+   - Transient Ischemic Attack: 5%
+
+2. Immediate Clinical Actions Recommended:
+   - Medication Name: Alteplase (tPA)
+   - Drug Class: Thrombolytic
+   - Dosage: 0.9 mg/kg (maximum dose 90 mg)
+   - Frequency: Single dose, 10% of the dose is given as a bolus over 1 minute, the remainder over 60 minutes
+   - Duration: Single dose
+
+   - Medication Name: Aspirin
+   - Drug Class: Antiplatelet
+   - Dosage: 325 mg
+   - Frequency: Once daily
+   - Duration: Long-term
+
+3. Follow-up Recommendations:
+   - Neurology follow-up within 1 week for stroke management and rehabilitation planning.
+   - Cardiology follow-up for atrial fibrillation management.
+   - Regular blood pressure monitoring and hypertension management.
+   - Lifestyle modifications including a healthy diet, regular exercise, smoking cessation, and limited alcohol intake.
+
+4. EMR Documentation:
+   - Chief Complaint: Sudden right-sided weakness, facial droop, slurred speech
+   - History of Present Illness: Patient with a history of hypertension and atrial fibrillation presented with acute onset of right-sided weakness, facial droop, and slurred speech.
+   - Examination: Neurological examination consistent with left MCA territory involvement.
+   - Investigations: CT Head showed no bleed. MRI confirmed left MCA infarct.
+   - Assessment: Acute ischemic stroke (Left MCA infarction)
+   - Plan: Administered Alteplase (tPA) as per acute stroke protocol. Initiated Aspirin 325 mg daily for secondary stroke prevention. Arranged for follow-up with Neurology and Cardiology. Recommended lifestyle modifications for stroke risk reduction."
